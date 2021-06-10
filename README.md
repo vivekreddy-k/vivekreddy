@@ -61,6 +61,43 @@ Since there are various practice repositories use key words **static-website,res
   </details>
   
   
+  
+  <details>
+    <summary>Authentication of a web page </summary>
+    <details>
+        <summary>Aurhentication 1</summary>
+        <h3>Project Title: Aurhentication 1 </h3>
+        <h3>Project description:</h3><p>A sample react application explains the concepts of authentication in react (JWT, fetch (url, options) , response methods ).                Refer 
+        <a href="https://github.com/kasivivekkasivivek/next-trends-authentication-react-21-1#readme">ReadMe</a> for better Understanding</p>
+        <h3><a href="https://github.com/kasivivekkasivivek/next-trends-authentication-react-21-1">Source Code Git Hub</a></h3>
+     </details>
+     <details>
+        <summary>Authenticatin 2</summary>
+        <h3>Project Title: Authenticatin 2 </h3>
+        <h3>Project description:</h3><p>A react web application that uses the concepts of authentication and authorization. And used the concept of cookies to store                  the jwt token and requires authentication to use the application. Refer 
+        <a href="https://github.com/kasivivekkasivivek/Nxt-rendz-Authentication-21-2#readme">ReadMe</a> for better Understanding</p>
+        <h3><a href="https://quirky-allen-bbaed4.netlify.app/login">Source Code Git Hub</a></h3>
+        <h3>Live Demo :<a href="https://quirky-allen-bbaed4.netlify.app/">Click Me !</a></h3> login Credentials :- rahul || rahul@2021
+  </details>
+  <details>
+      <summary>Authentication 3</summary>
+      <h3>Project Title: Authentication 3 </h3>
+      <h3> <a href="httphttps://github.com/kasivivekkasivivek/next-rentz-authentication-react-21-3">Source Code Git Hub</a></h3>
+      <h3>Live Demo :<a href="https://unruffled-mcclintock-497168.netlify.app/"> Click Me !</a></h3>  login Credentials :- rahul || rahul@2021
+  </details>
+   <details>
+      <summary>Sample Authentication </summary>
+      <h3>Project Title: Sample Authentication  </h3>
+      <h3>Project description:</h3><p>A sample web application explains the concepts of authorization and authentication. Refer 
+      <a href="https://github.com/kasivivekkasivivek/sample-authorization-and-authentication-react-22#readme">ReadMe</a> for better Understanding</p>
+      <h3><a href="https://github.com/kasivivekkasivivek/sample-authorization-and-authentication-react-22">Source Code Git Hub</a></h3>
+      <h3>Live Demo :<a href="https://gracious-meninsky-3150af.netlify.app/login"> Click Me !</a></h3>
+  </details>
+    
+  </details>
+  
+  
+  
   <details>
     <summary>Coffee Planner Application </summary>
     <h3>Project Title: Coffee Planner Application</h3>
