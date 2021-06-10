@@ -77,7 +77,7 @@
 
 <h3>ReactJS Projects <img src="https://miro.medium.com/max/2128/1*KN7zbaWkbm5E71zZWfTf7A.gif" alt="react" width="200" height="120"/>
  </h3>
-  
+  </br></br>
 <details align="left">
   <summary>ReactJS Projects </summary>
   
@@ -209,6 +209,58 @@
     <h3>Live Demo :<a href="https://loving-wing-6c8ede.netlify.app/"> Click Me !</a></h3>
   </details>
 
+</details>
+</br></br>
+<h3> Dynamic Web Applications <img width="300" height="150" src="https://aptronicssoftware.com/wp-content/uploads/2020/08/website-development.gif"></h3>
+</br></br>
+<details>
+  <summary> Dynamic Web Applications </summary>
+  
+   <details>
+    <summary></summary>
+    <h3>Project Title: <img width="50" height="50" src=""></h3>
+    <h3>Project description:</h3><p> Refer 
+    <a href="">ReadMe</a> for better Understanding</p>
+    <h3><a href="">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href=""></a></h3>
+  </details>
+  
+  
+   <details>
+    <summary>Search the Book </summary>
+    <h3>Project Title: Search for the Book <img width="90" height="250" src="https://assets.ccbp.in/frontend/content/dynamic-webapps/book_search_output.gif"></h3>
+    <h3>Project description:</h3><p>A dynamic web application is created using the concepts of javascript where user can search for the book using the keywords.Based on user input API returns list of books. Users can increase the range of books from 10 (default) to 30.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Book-Search-dynamic-webapplication-19">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://booksearch1.ccbp.tech/">Click Me !</a></h3>
+  </details>
+  
+  
+  <details>
+    <summary>Speed Typing Test</summary>
+    <h3>Project Title: Fast typing Test <img width="250" height="120" src="https://www.abington.k12.pa.us/tech-savvy/media/sites/tech-savvy/posts/2015/04/computer-keyboard.gif"></h3>
+    <h3>Project description:</h3><p> A dynamic responsive web application that is used to test the typing speed of the user. The application fetches a random text from the api on every reload/reset.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Speed-Typing-Test-dynamic-webapplication-18">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://typingspeed1.ccbp.tech/"> Click Me !</a> <img width="100" height="50" src="https://www.massivedynamics.co.in/home/assets/click-me-arrow.gif"></h3>
+  </details>
+  
+  <details>
+    <summary>Know the fact about the number </summary>
+    <h3>Project Title: Know the fact about the number <img width="100" height="250" src="https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/dynamic-webapps/numbers-fact-v1.gif"></h3>
+    <h3>Project description:</h3><p> A dynamic responsive web application that fetches the facts data about the number from web API's on user input.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Know-Fact-About-the-Number-12">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://numberinfo.ccbp.tech/">Click Me !</a><img width="100" height="50" src="https://i.pinimg.com/originals/13/fa/be/13fabe368d08211706da14d461727b50.gif"></h3>
+  </details>
+  
+  <details>
+    <summary>Countries Search </summary>
+    <h3>Project Title: Countries Search <img width="150" height="150" src="https://diitc.com/wp-content/uploads/2021/03/diitc.global.gif"></h3>
+    <h3>Project description:</h3><p> A dynamic responsive web application that displays the various countries information along with its flags. User can get the selected country info from user input search bar and results are drawn based on pattern matching format.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Countries-Search-Page-dynamic-webapplication-10">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<img width="90" height="60" src="https://www.animatedimages.org/data/media/1096/animated-click-here-sign-and-button-image-0009.gif">
+      <a href="https://countrysearch1.ccbp.tech/">Click Me !</a></h3>
+  </details>
+  
+  
 </details>
 
 
