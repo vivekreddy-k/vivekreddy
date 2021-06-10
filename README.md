@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 
                         
 
--->Languages and Tools: HTML, CSS , JAVASCRIPT , REACTJS , NODEJS , BOOTSTRAP , PYTHON 
+-->Languages and Tools 👨‍💻: HTML , CSS , JAVASCRIPT , REACTJS , NODEJS , BOOTSTRAP , PYTHON 
         
 
 Since there are various practice repositories use key words **static-website,responsive-website,dynamic-webapplication,reactjs,nodejs** in the search repositories  to look at sample practice web applications.
-<h3> Catch Me here :<a href="https://www.linkedin.com/in/vivek-reddy-kasireddy-996661176/">LinkedIn</a> </h3>
+<h3> Catch Me here :<a href="https://www.linkedin.com/in/vivek-reddy-kasireddy-996661176/">LinkedIn</a> 🤝🤝 </h3>
 <details>
-  <summary>ReactJS Projects</summary>
+  <summary>ReactJS Projects ⚛️</summary>
   <h1><summary>ReactJS Projects</summary></h1>
   <details>
     <summary></summary>
