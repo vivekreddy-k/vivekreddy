@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Linkedin : https://www.linkedin.com/in/vivek-reddy-kasireddy-996661176/ 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+                        Linkedin : https://www.linkedin.com/in/vivek-reddy-kasireddy-996661176/
+
 -->Languages and Tools: HTML, CSS , JAVASCRIPT , REACTJS , NODEJS , BOOTSTRAP , PYTHON 
 
 Since there are various practice repositories use key words static-website , responsive-website, dynamic-webapplication, reactjs, nodejs to look at sample practice web applications.
