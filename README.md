@@ -235,6 +235,15 @@
   </details>
   
   
+  <details>
+    <summary>Wikipedia search Application</summary>
+    <h3>Project Title: Wikipedia search Application <img width="50" height="50" src="https://media.tenor.com/images/198413e86dd33740aacf7548da9a8a41/tenor.gif"></h3>
+    <h3>Project description:</h3><p> Refer 
+    <a href="">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Wikipedia-Search-Application-dynamic-webapplication-8">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://wikipediaapp1.ccbp.tech/"> Click Me !</a></h3>
+  </details>  
+  
    <details>
     <summary>Search the Book </summary>
     <h3>Project Title: Search for the Book <img width="90" height="250" src="https://assets.ccbp.in/frontend/content/dynamic-webapps/book_search_output.gif"></h3>
@@ -292,7 +301,7 @@
     <h3>Project Title: Add User Form<img width="180" height="250" src="https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/dynamic-webapps/add-user-1-v1.gif"></h3>
     <h3>Project description:</h3><p> Take the input from the user as input for the form. Sinse it a sample web application I used event.preventDefault() that prevents navigation of the page.</p>
     <h3><a href="https://github.com/kasivivekkasivivek/add-user-dynamic-webapplication-17">Source Code Git Hub</a></h3>
-    <h3>Live Demo :<a href="https://fetchadduser.ccbp.tech/">Click Me !</a></h3>
+    <h3>Live Demo :<a href="https://fetchadduser1.ccbp.tech/">Click Me !</a></h3>
   </details>
   
   
