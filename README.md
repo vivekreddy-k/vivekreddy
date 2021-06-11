@@ -191,6 +191,15 @@
     <h3><a href="https://github.com/kasivivekkasivivek/Feedback-Application-react-9">Source Code Git Hub</a></h3>
   </details>
   
+   <details>
+    <summary>Letters Calculator </summary>
+    <h3>Project Title: Letters Calculator <img width="350" height="200" src="https://camo.githubusercontent.com/3b45daf0e2a76e0398abcb8d5da75b29013421c97f4c23f00171a99ffbd24c83/68747470733a2f2f6173736574732e636362702e696e2f66726f6e74656e642f636f6e74656e742f72656163742d6a732f6c6574746572732d63616c63756c61746f722d6f75747075742e676966"></h3>
+    <h3>Project description:</h3><p> A responsive react js web application which gives the length of word based on userinput. Refer 
+    <a href="https://github.com/kasivivekkasivivek/letters-calculator-react-7#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/letters-calculator-react-7">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://vigilant-darwin-b7cad5.netlify.app/"> Click Me !</a></h3>
+  </details>
+  
   <details>
     <summary>cascade slider review application</summary>
     <h3>Project Title: cascade slider review application <img width="200" height="150" src="https://camo.githubusercontent.com/c7c89cae35683ed3a12d1f1614576c84c931b42d75a5c114b597f9807f2e8e55/68747470733a2f2f6173736574732e636362702e696e2f66726f6e74656e642f636f6e74656e742f72656163742d6a732f726576696577732d6170702d6f75747075742d76322e676966"></h3>
@@ -259,6 +268,34 @@
     <h3>Live Demo :<img width="90" height="60" src="https://www.animatedimages.org/data/media/1096/animated-click-here-sign-and-button-image-0009.gif">
       <a href="https://countrysearch1.ccbp.tech/">Click Me !</a></h3>
   </details>
+  
+  
+   <details>
+    <summary>Select Your Pet</summary>
+    <h3>Project Title: Select Your Pet <img width="200" height="200" src="https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/dynamic-webapps/select-your-pet-v1.gif"></h3>
+    <h3>Project description:</h3><p> Based on the user input pet animals keep changing on the web page.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Select-your-Pet-dynamic-webapplication-15">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://selectpet1.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  
+   <details>
+    <summary>MCQ Exam</summary>
+    <h3>Project Title: MCQ Exam <img width="230" height="200" src="https://biochemjm.files.wordpress.com/2013/03/multiple-choice.gif"></h3>
+    <h3>Project description:</h3><p> A sample MCQ exam that checkes whether the given answer is correct or not. If a wrong option is given it raises a error.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Answer-Question-dynamic-webapplication-16">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://mcqsample.ccbp.tech/">Click Me !</a></h3>
+  </details>
+  
+   <details>
+    <summary>Add User Form</summary>
+    <h3>Project Title: Add User Form<img width="180" height="250" src="https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/dynamic-webapps/add-user-1-v1.gif"></h3>
+    <h3>Project description:</h3><p> Take the input from the user as input for the form. Sinse it a sample web application I used event.preventDefault() that prevents navigation of the page.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/add-user-dynamic-webapplication-17">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://fetchadduser.ccbp.tech/">Click Me !</a></h3>
+  </details>
+  
+  
   
   
 </details>
