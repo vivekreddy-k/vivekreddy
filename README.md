@@ -237,9 +237,8 @@
   
   <details>
     <summary>Wikipedia search Application</summary>
-    <h3>Project Title: Wikipedia search Application <img width="50" height="50" src="https://media.tenor.com/images/198413e86dd33740aacf7548da9a8a41/tenor.gif"></h3>
-    <h3>Project description:</h3><p> Refer 
-    <a href="">ReadMe</a> for better Understanding</p>
+    <h3>Project Title: Wikipedia search Application <img width="200" height="200" src="https://media.tenor.com/images/198413e86dd33740aacf7548da9a8a41/tenor.gif"></h3>
+    <h3>Project description:</h3><p> A dynamic web application which is a clone of Wikipedia Search Application. On user input it displays the various link from the API used.</p>
     <h3><a href="https://github.com/kasivivekkasivivek/Wikipedia-Search-Application-dynamic-webapplication-8">Source Code Git Hub</a></h3>
     <h3>Live Demo :<a href="https://wikipediaapp1.ccbp.tech/"> Click Me !</a></h3>
   </details>  
@@ -278,6 +277,14 @@
       <a href="https://countrysearch1.ccbp.tech/">Click Me !</a></h3>
   </details>
   
+  <details>
+    <summary>A Moment Of Peace Timer </summary>
+    <h3>Project Title: A Moment Of Peace Timer <img width="250" height="220" src="https://64.media.tumblr.com/95e81f14b10bae08c8b8b82ec4850e2b/tumblr_ntnqcrShyQ1u699duo2_r1_1280.gifv"></h3>
+    <h3>Project description:</h3><p> A responseive dynamic web application developed using the concepts of setTimeOut and ClearTimeOut. User Can set a timer of 20 seconds, 30 seconds,40 seconds or 1 minuite. Have a moment of peace !!</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Peace-Timer-dynamic-web-application-5">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://peacetimer1.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
   
    <details>
     <summary>Select Your Pet</summary>
@@ -304,9 +311,102 @@
     <h3>Live Demo :<a href="https://fetchadduser1.ccbp.tech/">Click Me !</a></h3>
   </details>
   
+  <details>
+    <summary>Bomb Defuser</summary>
+    <h3>Project Title: Bomb Defuser <img width="200" height="200" src="https://media4.giphy.com/media/zDndiKxJVlpRe8Hsi9/giphy.gif"></h3>
+    <h3>Project description:</h3><p> A bomb defuse dynamic web application. On entering a defuse text in text area then we get success text else we get boom !!. The application is developed using setTimeOut and clearTimeOut Web API's </p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Bomb-Defuser-dynamic-webapplication-7">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://bombdefuser1.ccbp.tech/"> Click Me !</a></h3>
+  </details>
   
   
+   <details>
+    <summary>Theme Switcher</summary>
+    <h3>Project Title: Theme Switcher <img width="150" height="250" src="https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/dynamic-webapps/change-theme-v1.gif"></h3>
+    <h3>Project description:</h3><p> A responsive dynamic web application that changes background image based on user input. If the user enters "light" background images id day light or if input text is "dark" the background changes to night image. The web application is developed using the concepts of AddEventListener "keyup" abd "keydown</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Theme-Switcher-dynamic-webapplication-6">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://themeswitcher1.ccbp.tech/"> Click Me ! </a></h3>
+  </details>
+  
+  
+  
+  <details>
+    <summary>Chat Bot Sample </summary>
+    <h3>Project Title: Chat Bot <img width="280" height="180" src="https://www.ismartrecruit.com/images/features/Chat-Bot.gif"></h3>
+    <h3>Project description:</h3><p> A sample Chat bot web application. On click send butoon the bot leaves a Random message from its set of input instructions.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/chat-bot-dynamic-webapplication-3">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://tchatborandom.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  
+   <details>
+    <summary>Word Cloud</summary>
+    <h3>Project Title: Word Cloud <img width="300" height="250" src="https://user-images.githubusercontent.com/3344878/68630057-f3347f00-049a-11ea-835f-87a00af4a015.gif"></h3>
+    <h3>Project description:</h3><p> A dynamic web application that is used to add user input word to the home page cloud of words of random size.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/word-cloud-dynamic-webapplication-2">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://wordcloud1.ccbp.tech/"> Click Me !</a></h3>
+  </details>
   
 </details>
+
+
+</br> </br> </br>
+<h3> Responsive Web Aplications:         <img width="350" height="300" src="https://www.echovme.in/blog/wp-content/uploads/2017/05/web-development.gif"></h3>
+<details>
+  
+  <summary>Responsive Web Application</summary>
+  
+  <details>
+    <summary></summary>
+    <h3>Project Title: <img width="50" height="50" src=""></h3>
+    <h3>Project description:</h3><p> Refer 
+    <a href="">ReadMe</a> for better Understanding</p>
+    <h3><a href="">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href=""></a></h3>
+  </details>
+  
+  <details>
+    <summary></summary>
+    <h3>Project Title: <img width="50" height="50" src=""></h3>
+    <h3>Project description:</h3><p> Refer 
+    <a href="">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Food-Munch-Website-responsive-website-8">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://sitefoodmunch.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  
+   <details>
+    <summary>Gallery Blog</summary>
+    <h3>Project Title: Gallery Blog <img width="100" height="200" src="https://assets.ccbp.in/frontend/content/intermediate-rwd/popular-blog-output.gif"> <img width="250" height="200" src="https://assets.ccbp.in/frontend/content/intermediate-rwd/popular-blog-v1-output.png"> <img width="250" height="200" src="https://assets.ccbp.in/frontend/content/intermediate-rwd/popular-blog-v2-output.png"></h3>
+    <h3>Project description:</h3><p> A responsive web application developed using the responsive bootstrap concepts.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Blog-responsive-webdesign-11">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://popularblog1.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  <details>
+    <summary>Weather Report </summary>
+    <h3>Project Title: Responsive Weather Report Application <img width="350" height="200" src="https://i.pinimg.com/originals/0e/f3/bb/0ef3bb66d9216fffcea9022628f7bb26.gif"></h3>
+    <h3>Project description:</h3><p> A responsive Weather report application.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Weather-Report--section-responsive-webdesign-10">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://weatherreport.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  <details>
+    <summary>Responsive Instagram Story Viewer</summary>
+    <h3>Project Title: <img width="200" height="200" src="https://i.pinimg.com/originals/d2/de/0a/d2de0a2189a609506b75689e265d5dc8.gif"></h3>
+    <h3>Project description:</h3><p> A static responsive web application of instagram story viewer and downloader web application.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Instagram-Story-Viewer-responsive-webdesign-12">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://instastoryview.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  <details>
+    <summary>Responsive Static Page</summary>
+    <h3>Project Title: Responsive Static Page <img width="250" height="250" src="https://www.bignetworld.com/wp-content/uploads/2018/10/Responsive-Website-Designing.gif"></h3>
+    <h3>Project description:</h3><p> A static responsive Web Application of images and text.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Tools-Section-responsive-webdesign-9">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://toolssection1.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+</details>  
 
 
