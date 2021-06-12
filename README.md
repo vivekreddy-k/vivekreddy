@@ -431,8 +431,9 @@
   
   
 </details>  
-<hr>
+
 </br> </br> </br>
+<hr> </br>
 <h2>Static Web Design <img width="300" height="200" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"></h2>
 </br>
 <details>
