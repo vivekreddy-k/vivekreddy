@@ -75,8 +75,8 @@
 </br></br></br></br></br>
 <h2>Have A look at some of my projects</h2>
 
-<h3>ReactJS Projects <img src="https://miro.medium.com/max/2128/1*KN7zbaWkbm5E71zZWfTf7A.gif" alt="react" width="200" height="120"/>
- </h3>
+<h2>ReactJS Projects <img src="https://i1.wp.com/blog.js-republic.com/wp-content/uploads/2016/08/react.gif?fit=640%2C640" alt="react" width="250" height="250"/>
+ </h2>
   </br></br>
 <details align="left">
   <summary>ReactJS Projects </summary>
@@ -220,7 +220,8 @@
 
 </details>
 </br></br>
-<h3> Dynamic Web Applications <img width="300" height="150" src="https://aptronicssoftware.com/wp-content/uploads/2020/08/website-development.gif"></h3>
+<hr>
+<h2> Dynamic Web Applications <img width="300" height="150" src="https://aptronicssoftware.com/wp-content/uploads/2020/08/website-development.gif"></h2>
 </br></br>
 <details>
   <summary> Dynamic Web Applications </summary>
@@ -348,10 +349,10 @@
   </details>
   
 </details>
-
+<hr>
 
 </br> </br> </br>
-<h3> Responsive Web Aplications:         <img width="350" height="300" src="https://www.echovme.in/blog/wp-content/uploads/2017/05/web-development.gif"></h3>
+<h2> Responsive Web Aplications:         <img width="350" height="300" src="https://www.echovme.in/blog/wp-content/uploads/2017/05/web-development.gif"></h2>
 <details>
   
   <summary>Responsive Web Application</summary>
@@ -366,11 +367,12 @@
   </details>
   
   <details>
-    <summary></summary>
-    <h3>Project Title: <img width="50" height="50" src=""></h3>
-    <h3>Project description:</h3><p> Refer 
-    <a href="">ReadMe</a> for better Understanding</p>
-    <h3><a href="https://github.com/kasivivekkasivivek/Food-Munch-Website-responsive-website-8">Source Code Git Hub</a></h3>
+    <summary>Food Munch </summary>
+    <h3>Project Title: Food Munch <img width="250" height="250" src="https://i.pinimg.com/originals/c4/cb/9a/c4cb9abc7c69713e7e816e6a624ce7f8.gif"></h3>
+    <h3>Project description:</h3><p> A responsive Food Much website ( a home page similar to online food odering websites). The wesite has completly responsive nav bar and home page </p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Food-Munch-Website-responsive-website-8">Source Code Git Hub 
+      <img width="250" height="100" src="https://i.pinimg.com/originals/8f/91/28/8f912896ac4922dab8bc6c4c3cbedc5b.gif">
+      </a></h3>
     <h3>Live Demo :<a href="https://sitefoodmunch.ccbp.tech/"> Click Me !</a></h3>
   </details>
   
@@ -407,6 +409,73 @@
     <h3>Live Demo :<a href="https://toolssection1.ccbp.tech/"> Click Me !</a></h3>
   </details>
   
+  <details>
+    <summary>Responsive Explore deals and offers</summary>
+    <h3>Project Title: Explore deals and offers <img width="250" height="100" src="https://media.tenor.com/images/c95e9af8e309f947528af01a976402d6/tenor.gif"></h3>
+    <h3>Project description:</h3><p>A static home page of deals and offer section of website which is completly responsive in nature developed using the concepts of bootstrap.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Deals-offers-responsive-webdesign-7">Source Code Git Hub
+      <img width="150" height="100" src="https://i.pinimg.com/originals/8f/91/28/8f912896ac4922dab8bc6c4c3cbedc5b.gif"></a></h3>
+    <h3>Live Demo :<a href="https://dealsoffers.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  
+  <details>
+    <summary> Responsive NavBar Styles</summary>
+    <h3>Project Title: NavBar section <img width="150" height="250" src="https://freefrontend.com/assets/img/css-mobile-menus/mobile-nav-only-checkbox-CSS.gif"></h3>
+    <h3>Project description:</h3><p> A sample project to demonstrate how responsive navbar function </p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Navbar-2-responsive-website-2">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://responsivenav2.ccbp.tech/"> Navbar Style 1</a></h3>
+    <h3><a href="https://github.com/kasivivekkasivivek/navbar-responsive-website-1">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://responsivebar.ccbp.tech/"> Navbar Style 1</a></h3>
+  </details>
+  
+  
 </details>  
+<hr>
+</br> </br> </br>
+<h2>Static Web Design <img width="300" height="200" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"></h2>
+</br>
+<details>
+  <summary>Static Website </summary>
+  
+  <details>
+    <summary>Static Podcast</summary>
+    <h3>Project Title: Static Podcast Page <img width="250" height="150" src="https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.prod.s3.amazonaws.com%2F4cd95d60-a515-11e7-b797-b61809486fe2?fit=scale-down&source=next&width=700"></h3>
+    <h3>Project description:</h3><p> A pure static website which have navigation from specific podcast section to home page and wise versa.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/podcast-static-webpage-5">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://staticposdcast.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  
+  <details>
+    <summary>Popular Books </summary>
+    <h3>Project Title: Popular Books <img width="200" height="150" src="http://www.animatedimages.org/data/media/53/animated-book-image-0032.gif"></h3>
+    <h3>Project description:</h3><p>A pure static website which can navigate on front and back on user interaction</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/books-store-static-webpage-7">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://staticbooksstor.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  <details>
+    <summary>Book Your Flat</summary>
+    <h3>Project Title: Book Your Flat <img width="250" height="250" src="https://i.pinimg.com/originals/a5/2d/9b/a52d9ba54264337baa487a48141a1bcf.gif"></h3>
+    <h3>Project description:</h3><p> A static website where user can navigate from main page to 3 layes inside and back to home page.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/flats-page-static-website-9">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://staticflatspage.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  <details>
+    <summary>Articles Page </summary>
+    <h3>Project Title: Articles Page </h3>
+    <h3>Project description:</h3><p> A static web site to navigate from home page to sub section pages.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Articles-Page-static-website-10">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://staticarticles.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+</details>  
+
+
+
+
+
 
 
