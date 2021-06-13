@@ -348,6 +348,15 @@
     <h3>Live Demo :<a href="https://wordcloud1.ccbp.tech/"> Click Me !</a></h3>
   </details>
   
+  
+   <details>
+    <summary> Counter </summary>
+    <h3>Project Title: Counter <img width="250" height="250" src="https://i.pinimg.com/originals/22/f7/b5/22f7b509b81c078b247ab6aeeb28bd27.gif"></h3>
+    <h3>Project description:</h3><p> A dynamic web application when the counter increment button is clicked it increases the number. on reset click the number is reset to 0. On decrement button numbers decrease.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/counter-javascript">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://counterweb.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
 </details>
 <hr>
 
@@ -440,6 +449,15 @@
   <summary>Static Website </summary>
   
   <details>
+    <summary>Yoga Page </summary>
+    <h3>Project Title: <img width="250" height="250" src="https://media.tenor.com/images/7553c7eabec98aaffda2e35c51bee730/tenor.gif"></h3>
+    <h3>Project description:</h3><p> A static Yoga Page. user can navigate from home page to sub page (different types of yoga).</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/static-yoga-page">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://yogaweb.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  
+  <details>
     <summary>Static Podcast</summary>
     <h3>Project Title: Static Podcast Page <img width="250" height="150" src="https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.prod.s3.amazonaws.com%2F4cd95d60-a515-11e7-b797-b61809486fe2?fit=scale-down&source=next&width=700"></h3>
     <h3>Project description:</h3><p> A pure static website which have navigation from specific podcast section to home page and wise versa.</p>
@@ -447,6 +465,14 @@
     <h3>Live Demo :<a href="https://staticposdcast.ccbp.tech/"> Click Me !</a></h3>
   </details>
   
+  
+  <details>
+    <summary>Static Testimonials</summary>
+    <h3>Project Title: Static Testimonials <img width="250" height="250" src="https://i.pinimg.com/originals/97/72/91/977291b89c52ce48da0def5ea4fc6410.gif"></h3>
+    <h3>Project description:</h3><p> A static testimonials website.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/static-Testimonials">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://restestimonials.ccbp.tech/"> Click Me ! </a></h3>
+  </details>
   
   <details>
     <summary>Popular Books </summary>
