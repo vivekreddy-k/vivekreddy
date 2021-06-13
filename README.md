@@ -365,6 +365,17 @@
     <h3>Live Demo :<a href="https://guessnumweb.ccbp.tech/"> Click Me !</a></h3>
   </details>
   
+   <details>
+    <summary>Image Resizing</summary>
+    <h3>Project Title: Image Resizing </h3>
+    <h3>Project description:</h3><p> A dynamic website when the user clicks + button the size of image increases and on click - image size decreases</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/dynamic-image-sizing">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://imageresizing.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  
+  
+  
 </details>
 <hr>
 
