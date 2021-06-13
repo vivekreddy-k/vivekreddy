@@ -19,7 +19,7 @@
 </br>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/vivek-reddy-kasireddy-996661176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek reddy kasireddy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vivek-reddy-kasireddy-996661176/" target="blank"><img align="center" width="100" height="100" src="http://media-cache-ec0.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.jpg" alt="vivek reddy kasireddy" height="30" width="40" /></a>
 </p>
 </br>
 <h2 align="center">Languages and Tools:</h2> </br>
