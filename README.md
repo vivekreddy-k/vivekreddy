@@ -384,14 +384,7 @@
   
   <summary>Responsive Web Application</summary>
   
-  <details>
-    <summary></summary>
-    <h3>Project Title: <img width="50" height="50" src=""></h3>
-    <h3>Project description:</h3><p> Refer 
-    <a href="">ReadMe</a> for better Understanding</p>
-    <h3><a href="">Source Code Git Hub</a></h3>
-    <h3>Live Demo :<a href=""></a></h3>
-  </details>
+  
   
   <details>
     <summary>Food Munch </summary>
@@ -456,6 +449,15 @@
     <h3>Live Demo :<a href="https://responsivebar.ccbp.tech/"> Navbar Style 1</a></h3>
   </details>
   
+  
+  <details>
+    <summary></summary>
+    <h3>Project Title: <img width="50" height="50" src=""></h3>
+    <h3>Project description:</h3><p> Refer 
+    <a href="">ReadMe</a> for better Understanding</p>
+    <h3><a href="">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href=""></a></h3>
+  </details>
   
 </details>  
 
