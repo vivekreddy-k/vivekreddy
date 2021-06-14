@@ -225,16 +225,7 @@
 </br></br>
 <details>
   <summary> Dynamic Web Applications </summary>
-  
-   <details>
-    <summary></summary>
-    <h3>Project Title: <img width="50" height="50" src=""></h3>
-    <h3>Project description:</h3><p> Refer 
-    <a href="">ReadMe</a> for better Understanding</p>
-    <h3><a href="">Source Code Git Hub</a></h3>
-    <h3>Live Demo :<a href=""></a></h3>
-  </details>
-  
+
   
   <details>
     <summary>Wikipedia search Application</summary>
@@ -373,6 +364,14 @@
     <h3>Live Demo :<a href="https://imageresizing.ccbp.tech/"> Click Me !</a></h3>
   </details>
   
+   <details>
+    <summary></summary>
+    <h3>Project Title: <img width="50" height="50" src=""></h3>
+    <h3>Project description:</h3><p> Refer 
+    <a href="">ReadMe</a> for better Understanding</p>
+    <h3><a href="">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href=""></a></h3>
+  </details>
   
   
   
