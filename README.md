@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MERN Stack , Python , SQL**
 
-- 📫 How to reach me **vivekreddykasireddy@gmail.com** <img width="100" height="100" src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif">
+- 📫 you can to reach me **vivekreddykasireddy@gmail.com** <h3><a href="vivekreddykasireddy@gmail.com"><img width="100" height="100" src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif"></a><h3>
 
 </br>
 <h2 align="center">Connect with me:</h2>
