@@ -378,7 +378,7 @@
 </details>
 <hr>
 
-</br> </br> </br>
+</br> </br> 
 <h2> Responsive Web Aplications:         <img width="350" height="300" src="https://www.echovme.in/blog/wp-content/uploads/2017/05/web-development.gif"></h2>
 <details>
   
