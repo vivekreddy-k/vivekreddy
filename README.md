@@ -7,7 +7,7 @@
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/> </a> 
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> 
    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> </a>
-
+- 🔭 I’m currently working on **ReactJS**
 - 🤝 I’m looking for help with **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kasivivekkasivivek?tab=repositories](https://github.com/kasivivekkasivivek?tab=repositories)
