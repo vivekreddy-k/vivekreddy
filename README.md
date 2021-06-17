@@ -235,6 +235,15 @@
     <h3>Live Demo :<a href="https://wikipediaapp1.ccbp.tech/"> Click Me !</a></h3>
   </details>  
   
+  <details>
+    <summary> Movies Application</summary>
+    <h3>Project Title: Movies Application<img width="250" height="250" src="https://i.pinimg.com/originals/43/3d/83/433d83f7e481f35245f8c6bb7c7591d8.gif"></h3>
+    <h3>Project description:</h3><p> A dynamic web application is created using the movies api where the user can fetch latest movies, top rated movies, Current Movies, Upcoming Movies and can also store movies as favorite movies.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/movies-app-dynamic-web-application">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://moviesapp.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  
   
    <details>
     <summary>ToDo Web Application</summary>
