@@ -73,7 +73,7 @@
 </p>
 
 </br></br></br></br></br>
-<h2>Have A look at some of my projects</h2>
+<h2>Have A look at some of my projects (expand each section to view my projects)</h2>
 
 <h2>ReactJS Projects <img src="https://i1.wp.com/blog.js-republic.com/wp-content/uploads/2016/08/react.gif?fit=640%2C640" alt="react" width="250" height="250"/>
  </h2>
@@ -219,8 +219,9 @@
   </details>
 
 </details>
-</br></br>
+
 <hr>
+</br></br></br>
 <h2> Dynamic Web Applications <img width="300" height="150" src="https://aptronicssoftware.com/wp-content/uploads/2020/08/website-development.gif"></h2>
 </br></br>
 <details>
@@ -480,8 +481,8 @@
   
 </details>  
 
-</br> </br> </br>
-<hr> </br>
+<hr> 
+</br></br> </br>
 <h2>Static Web Design <img width="300" height="200" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"></h2>
 </br>
 <details>
