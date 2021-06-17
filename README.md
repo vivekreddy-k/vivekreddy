@@ -235,6 +235,16 @@
     <h3>Live Demo :<a href="https://wikipediaapp1.ccbp.tech/"> Click Me !</a></h3>
   </details>  
   
+  
+   <details>
+    <summary>ToDo Web Application</summary>
+    <h3>Project Title: <img width="250" height="250" src="https://media.tenor.com/images/f33074eacd09458f16701c94e87b8034/tenor.gif"></h3>
+    <h3>Project description:</h3><p> A todo responsive web application where the user can add a new todo, can store it in local storage, mark it as completed, 
+     delete it.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/todo-application-responsive-dynamic-web-application-1">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://vivektodo.ccbp.tech/"> Click ME !</a></h3>
+  </details>
+  
    <details>
     <summary>Search the Book </summary>
     <h3>Project Title: Search for the Book <img width="90" height="250" src="https://assets.ccbp.in/frontend/content/dynamic-webapps/book_search_output.gif"></h3>
