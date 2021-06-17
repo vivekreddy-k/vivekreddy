@@ -417,6 +417,14 @@
   </details>
   
   
+  <details>
+    <summary>Food Application</summary>
+    <h3>Project Title: Food Application <img width="250" height="250" src="https://media0.giphy.com/media/3ohzdXFDqrLfSORwHu/giphy.gif"></h3>
+    <h3>Project description:</h3><p>A responsive Static food application</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/food-app-responsive-web-application">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://tastyfood.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
    <details>
     <summary>Gallery Blog</summary>
     <h3>Project Title: Gallery Blog <img width="100" height="200" src="https://assets.ccbp.in/frontend/content/intermediate-rwd/popular-blog-output.gif"> <img width="250" height="200" src="https://assets.ccbp.in/frontend/content/intermediate-rwd/popular-blog-v1-output.png"> <img width="250" height="200" src="https://assets.ccbp.in/frontend/content/intermediate-rwd/popular-blog-v2-output.png"></h3>
