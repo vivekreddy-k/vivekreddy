@@ -477,6 +477,13 @@
     <h3>Live Demo :<a href="https://responsivebar.ccbp.tech/"> Navbar Style 1</a></h3>
   </details>
   
+  <details>
+    <summary>Shoes Mart</summary>
+    <h3>Project Title: Shoes Mart <img width="250" height="200" src="https://media1.giphy.com/media/3oEjHW5ZfmQsI2rUuk/giphy.gif"></h3>
+    <h3>Project description:</h3><p> A responsive shoes mart application </p>
+    <h3><a href="https://github.com/kasivivekkasivivek/shoes-mart-responsive-web-applications">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://vivekshoes.ccbp.tech/"> Click Me !</a></h3>
+  </details>
   
   <details>
     <summary></summary>
