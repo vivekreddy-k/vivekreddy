@@ -566,14 +566,20 @@
    
   
   <details>
-    <summary> Cricket Team </summary>
+    <summary> Cricket Team API's</summary>
     <h3>Project Title: Cricket Team <img width="150" height="150" src="https://www.influencermarketingsingapore.com/wp-content/uploads/2018/04/1__JJTknJYPxJPLNEEB3jh7Q.gif"></h3>
     <h3>Project description:</h3><p>A sample API is created using NodeJS , ExpressJS and sqlite. The API allows user to retrieve data from cricket team database and also allows to perform various create(POST) , PUT(update) and delete operations. Refer 
     <a href="https://github.com/kasivivekkasivivek/cricket-team-expressJS-application#readme">ReadMe</a> for better Understanding</p>
     <h3><a href="https://github.com/kasivivekkasivivek/cricket-team-expressJS-application">Source Code Git Hub</a></h3>
   </details>
   
-  
+  <details>
+    <summary>Movies and Directors API</summary>
+    <h3>Project Title: Movies and Directors API <img width="250" height="250" src="https://m.gifmania.co.uk/Movies-Cinema-Animated-Gifs/Animated-Film-Directors/Cartoon-Film-Directors/Director-Shouting-Action-82171.gif"></h3>
+    <h3>Project description:</h3><p> Sample APIs are created using NodeJS, ExpressJS , SQLite where the user can perform various operations on the database like GET(read) , POST(create) , PUT(update) and delete. These APIS can retrieve various queries using path parameters and query parameters.Refer 
+    <a href="https://github.com/kasivivekkasivivek/movies-director-expressJS-application#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/movies-director-expressJS-application">Source Code Git Hub</a></h3>
+  </details>
   
 </details>
 
