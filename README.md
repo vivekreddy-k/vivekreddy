@@ -564,13 +564,12 @@
 <details>
   <summary> NodeJs and ExpressJS </summary>
    
-  
   <details>
-    <summary> Cricket Team API's</summary>
-    <h3>Project Title: Cricket Team <img width="150" height="150" src="https://www.influencermarketingsingapore.com/wp-content/uploads/2018/04/1__JJTknJYPxJPLNEEB3jh7Q.gif"></h3>
-    <h3>Project description:</h3><p>A sample API is created using NodeJS , ExpressJS and sqlite. The API allows user to retrieve data from cricket team database and also allows to perform various create(POST) , PUT(update) and delete operations. Refer 
-    <a href="https://github.com/kasivivekkasivivek/cricket-team-expressJS-application#readme">ReadMe</a> for better Understanding</p>
-    <h3><a href="https://github.com/kasivivekkasivivek/cricket-team-expressJS-application">Source Code Git Hub</a></h3>
+    <summary>Covid 19 Tracker India ExpressJS Application</summary>
+    <h3>Project Title: Covid 19 Tracker India ExpressJS Application<img width="200" height="200" src="https://i.pinimg.com/originals/c6/28/87/c62887db7cea40ab5753171c86e456ef.gif"></h3>
+    <h3>Project description:</h3><p> Sample APIs are created using NodeJS, ExpressJS , SQLite where the user can perform various operations on the database like GET(read) , POST(create) , PUT(update) and delete. These APIS can retrieve various queries using path parameters and query parameters.Refer 
+    <a href="https://github.com/kasivivekkasivivek/covid-19-india-expressJS-application#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/covid-19-india-expressJS-application">Source Code Git Hub</a></h3>
   </details>
   
   <details>
@@ -580,6 +579,16 @@
     <a href="https://github.com/kasivivekkasivivek/movies-director-expressJS-application#readme">ReadMe</a> for better Understanding</p>
     <h3><a href="https://github.com/kasivivekkasivivek/movies-director-expressJS-application">Source Code Git Hub</a></h3>
   </details>
+  
+  <details>
+    <summary> Cricket Team API's</summary>
+    <h3>Project Title: Cricket Team <img width="150" height="150" src="https://www.influencermarketingsingapore.com/wp-content/uploads/2018/04/1__JJTknJYPxJPLNEEB3jh7Q.gif"></h3>
+    <h3>Project description:</h3><p>A sample API is created using NodeJS , ExpressJS and sqlite. The API allows user to retrieve data from cricket team database and also allows to perform various create(POST) , PUT(update) and delete operations. Refer 
+    <a href="https://github.com/kasivivekkasivivek/cricket-team-expressJS-application#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/cricket-team-expressJS-application">Source Code Git Hub</a></h3>
+  </details>
+  
+  
   
 </details>
 
