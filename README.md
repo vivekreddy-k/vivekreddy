@@ -565,6 +565,14 @@
   <summary> NodeJs and ExpressJS </summary>
    
   <details>
+    <summary>Player Match Scores APIS</summary>
+    <h3>Project Title: Player Match Scores APIS <img width="250" height="250" src="https://miro.medium.com/max/2400/1*_JJTknJYPxJPLNEEB3jh7Q.gif"></h3>
+    <h3>Project description:</h3><p>Sample APIs are created using NodeJS, ExpressJS , SQLite where the user can perform various operations on the database like GET(read) , POST(create) , PUT(update) and delete. These APIS can retrieve various queries using path parameters and query parameters. Refer 
+    <a href="https://github.com/kasivivekkasivivek/player-match-scores-expressJS-application#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/player-match-scores-expressJS-application">Source Code Git Hub</a></h3>
+  </details>
+  
+  <details>
     <summary>Covid 19 Tracker India ExpressJS Application</summary>
     <h3>Project Title: Covid 19 Tracker India ExpressJS Application<img width="200" height="200" src="https://i.pinimg.com/originals/c6/28/87/c62887db7cea40ab5753171c86e456ef.gif"></h3>
     <h3>Project description:</h3><p> Sample APIs are created using NodeJS, ExpressJS , SQLite where the user can perform various operations on the database like GET(read) , POST(create) , PUT(update) and delete. These APIS can retrieve various queries using path parameters and query parameters.Refer 
