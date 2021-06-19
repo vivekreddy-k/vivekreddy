@@ -564,12 +564,22 @@
 <details>
   <summary> NodeJs and ExpressJS </summary>
    
+  
+  <details>
+    <summary> User Authentication API's ExpressJS</summary>
+    <h3>Project Title: User Authentication API's ExpressJS <img width="300" height="210" src="https://i.pinimg.com/originals/ff/58/1b/ff581bbb041f2b2ecbd44dd097c1dbc6.gif"></h3>
+    <h3>Project description:</h3><p>Sample APIs are created using NodeJS, ExpressJS , SQLite where the user can perform various authentication operations on the data base like creating the user identity( user registration), updating the password or changing passwords and user login. Passwords are encrypted before they are stored into the data base using nodeJS packages. Refer 
+    <a href="https://github.com/kasivivekkasivivek/user-authentication-expressjs-application#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/user-authentication-expressjs-application">Source Code Git Hub</a>
+    <img width="100" heigh="100" src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif"></h3>
+  </details>
+  
   <details>
     <summary>Todo Application API's ExpressJS</summary>
     <h3>Project Title: Todo Application API's ExpressJS <img width="250" height="250" src="https://media.tenor.com/images/90dea47d48ab74dc47ea6b603f2175ce/tenor.gif"></h3>
     <h3>Project description:</h3><p>Sample APIs are created using NodeJS, ExpressJS , SQLite where the user can perform various operations on the database like GET(read) , POST(create) , PUT(update) and delete. These APIS can retrieve various queries using path parameters and query parameters. Refer 
     <a href="https://github.com/kasivivekkasivivek/Todo-Application-nodejs#readme">ReadMe</a> for better Understanding</p>
-    <h3><a href="https://github.com/kasivivekkasivivek/Todo-Application-nodejs">Source Code Git Hub</a></h3>
+    <h3><a href="https://github.com/kasivivekkasivivek/Todo-Application-nodejs">Source Code Git Hub</a> <img width="100" heigh="100" src="https://camo.githubusercontent.com/1230fca05585499fa662315c25aebf9d1ac9c72a00c47ed8fed2421c97418b3e/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646576706f73742f696d6167652f66657463682f732d2d3373526c393931582d2d2f68747470733a2f2f6769746875622e636f6d2f6e70656e7472656c2f6f63746f636c697070792f626c6f622f6d61737465722f676966732f74656e7461636c65732e67696625334672617725334474727565"></h3>
   </details>
   
   
@@ -586,7 +596,8 @@
     <h3>Project Title: Covid 19 Tracker India ExpressJS Application<img width="200" height="200" src="https://i.pinimg.com/originals/c6/28/87/c62887db7cea40ab5753171c86e456ef.gif"></h3>
     <h3>Project description:</h3><p> Sample APIs are created using NodeJS, ExpressJS , SQLite where the user can perform various operations on the database like GET(read) , POST(create) , PUT(update) and delete. These APIS can retrieve various queries using path parameters and query parameters.Refer 
     <a href="https://github.com/kasivivekkasivivek/covid-19-india-expressJS-application#readme">ReadMe</a> for better Understanding</p>
-    <h3><a href="https://github.com/kasivivekkasivivek/covid-19-india-expressJS-application">Source Code Git Hub</a></h3>
+    <h3><a href="https://github.com/kasivivekkasivivek/covid-19-india-expressJS-application">Source Code Git Hub</a>
+    <img width="100" height="100" src="https://raw.githubusercontent.com/Thagoo/Thagoo/master/github.gif"></h3>
   </details>
   
   <details>
@@ -594,7 +605,8 @@
     <h3>Project Title: Movies and Directors API <img width="250" height="250" src="https://m.gifmania.co.uk/Movies-Cinema-Animated-Gifs/Animated-Film-Directors/Cartoon-Film-Directors/Director-Shouting-Action-82171.gif"></h3>
     <h3>Project description:</h3><p> Sample APIs are created using NodeJS, ExpressJS , SQLite where the user can perform various operations on the database like GET(read) , POST(create) , PUT(update) and delete. These APIS can retrieve various queries using path parameters and query parameters.Refer 
     <a href="https://github.com/kasivivekkasivivek/movies-director-expressJS-application#readme">ReadMe</a> for better Understanding</p>
-    <h3><a href="https://github.com/kasivivekkasivivek/movies-director-expressJS-application">Source Code Git Hub</a></h3>
+    <h3><a href="https://github.com/kasivivekkasivivek/movies-director-expressJS-application">Source Code Git Hub</a>
+    <img width="100" height="100" src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif"></h3>
   </details>
   
   <details>
@@ -602,7 +614,8 @@
     <h3>Project Title: Cricket Team <img width="150" height="150" src="https://www.influencermarketingsingapore.com/wp-content/uploads/2018/04/1__JJTknJYPxJPLNEEB3jh7Q.gif"></h3>
     <h3>Project description:</h3><p>A sample API is created using NodeJS , ExpressJS and sqlite. The API allows user to retrieve data from cricket team database and also allows to perform various create(POST) , PUT(update) and delete operations. Refer 
     <a href="https://github.com/kasivivekkasivivek/cricket-team-expressJS-application#readme">ReadMe</a> for better Understanding</p>
-    <h3><a href="https://github.com/kasivivekkasivivek/cricket-team-expressJS-application">Source Code Git Hub</a></h3>
+    <h3><a href="https://github.com/kasivivekkasivivek/cricket-team-expressJS-application">Source Code Git Hub</a>
+    <img width="100" height="100" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"></h3>
   </details>
   
   
