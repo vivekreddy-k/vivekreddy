@@ -165,7 +165,7 @@
       <h3><a href="https://github.com/kasivivekkasivivek/Frequently-Asked-Questions-demoApplication-react-5">Source Code Git Hub 1 </a></h3>
       <h3>Live Demo :<a href="https://reverent-mirzakhani-520d20.netlify.app/"> Click Me !</a></h3>
      <h3><a href="https://github.com/kasivivekkasivivek/ReactJS-FAQApplication/blob/main/README.md">Source Code Git Hub 2</a></h3>
-      <h3>Live Demo :<a href="https://sad-bassi-369db5.netlify.app/"> Click Me !</a></h3>
+      <h3>Live Demo :<a href="https://faq-application.netlify.app/"> Click Me !</a></h3>
   </details>
   
   <details>
