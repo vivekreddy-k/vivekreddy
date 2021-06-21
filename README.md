@@ -120,6 +120,15 @@
   </details>
   
   
+  <details>
+    <summary>Random Password Generator</summary>
+    <h3>Project Title: Random Password Generator <img width="250" height="250" src="https://cnet4.cbsistatic.com/img/73gmAv9Iu3BXf3oZ6cDQ2v3JxuU=/2017/04/21/5b8ac90a-9204-4050-b93c-36e304bdb77c/gif-password.gif"></h3>
+    <h3>Project description:</h3><p>A ReactJS application developed using the concepts of components , state and props to generate a random password. User can set the length of password (5-25) and  also select which characters can be includes in the password. Users can generate a random quick password (standard password length-8 and include uppercase , lowercase , numbers, special characters). Refer 
+    <a href="https://github.com/kasivivekkasivivek/ReactJS-random-password-generator#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/ReactJS-random-password-generator">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://randompasswordgen.netlify.app/"> Click Me !</a></h3>
+  </details>
+  
    <details>
        <summary>Stop Watch</summary>
       <h3>Project Title: Stop Watch <img width="120" height="100" src="https://i.pinimg.com/originals/01/28/46/0128468e98f1312cb40ef96218f4f6a5.gif"></h3>
