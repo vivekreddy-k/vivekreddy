@@ -130,6 +130,15 @@
   </details>
   
    <details>
+    <summary>Digital Timer (Study Timer)</summary>
+    <h3>Project Title: Digital Timer (Study Timer) <img width="250" height="250" src="https://thumbs.gfycat.com/DependentNegativeFattaileddunnart-size_restricted.gif"></h3>
+    <h3>Project description:</h3><p> A ReactJS application built using the concepts of component, state and its functions. SetTimeout API's are used to set are clear the time. User can increase/ decrease the time as per the requirement and once the time start it gets disabled.Refer 
+    <a href="https://github.com/kasivivekkasivivek/ReactJS-digital-timer#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/ReactJS-digital-timer">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://vivek-digitalclock.netlify.app/"> Click ME !</a></h3>
+  </details>
+  
+   <details>
        <summary>Stop Watch</summary>
       <h3>Project Title: Stop Watch <img width="120" height="100" src="https://i.pinimg.com/originals/01/28/46/0128468e98f1312cb40ef96218f4f6a5.gif"></h3>
       <h3>Project description:</h3><p>A complete stop watch is created using concepts of component life cycle in react with decent UI. Refer 
