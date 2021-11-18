@@ -88,7 +88,7 @@
     <h3>Project description:</h3><p>A basic memory game developed using react concepts. Player needs to remember emoji clicked each time to win the game.(i.e 12/12 is      win). Since its a dynamic application emojis gets shuffled immediately after clicking a emoji. Refer 
     <a href="https://github.com/kasivivekkasivivek/emoji-game-react-15#readme">ReadMe</a> for better Understanding</p>
     <h3><a href="https://github.com/kasivivekkasivivek/emoji-game-react-15">Source Code Git Hub</a></h3>
-    <h3>Live Demo :<a href="https://relaxed-bohr-7f8e65.netlify.app/">Click Me !</a></h3>
+    <h3>Live Demo :<a href="https://emojigame1.netlify.app/">Click Me !</a></h3>
   </details>
   
   <details>
