@@ -1,5 +1,5 @@
 <p align="center"><img width="100" height="100" src="https://i.pinimg.com/originals/57/5a/20/575a20918d349a354cc636a0d49b35a0.gif"></p>
-<h1 align="center">Hi 👋, I'm Vivek Reddy Kasireddy </h1>
+<h1 align="center">Hi 👋, I'm Vivek Reddy </h1>
 <h3 align="center"> A passionate full stack developer </h3>
 
 
@@ -10,18 +10,18 @@
    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> </a>
 - 🔭 I’m currently working on **ReactJS**
 - 🤝 I’m looking for help with **MERN Stack**
-
+<!--
 - 👨‍💻 All of my projects are available at [https://github.com/kasivivekkasivivek?tab=repositories](https://github.com/kasivivekkasivivek?tab=repositories)
 
 - 💬 Ask me about **MERN Stack , Python , SQL**
 
-- 📫 you can to reach me on **vivekreddykasireddy@gmail.com** <a href="mailto:vivekreddykasireddy@gmail.com"><img width="100" height="100" src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif"></a>
+- 📫 you can to reach me on **vivekreddykasireddy@gmail.com** <a href="mailto:vivekreddykasireddy@gmail.com"><img width="100" height="100" src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif"></a> 
 
 </br>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/vivek-reddy-kasireddy-996661176/" target="blank"><img align="center" width="100" height="100" src="http://media-cache-ec0.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.jpg" alt="vivek reddy kasireddy" height="30" width="40" /></a>
-</p>
+</p> -->
 </br>
 <h2 align="center">Languages and Tools:</h2> </br>
 <img width="400" height="500" alt="coding" align="right" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
